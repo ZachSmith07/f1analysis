@@ -1,16 +1,15 @@
 # f1analysis
 
-A new Flutter project.
+Original Flutter version of [F1 Metrics](https://www.f1-metrics.com/), an F1 data analysis app for live and historical timing data. It has been superseded by the current version, built with TypeScript and Next.js ([source](https://github.com/ZachSmith07/f1-metrics)).
 
-## Getting Started
+## Why it was rebuilt
 
-This project is a starting point for a Flutter application.
+The web build of this Flutter app had slow load times. I rebuilt it in Next.js to get faster page loads, with the same functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dart, Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+
+Archived. No longer maintained.
